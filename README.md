@@ -1,18 +1,41 @@
 👋 Hi, I’m Mohammed Izhan
 
-🚀 About Me
+🎯 Aspiring Business & Data Analyst passionate about transforming raw data into meaningful insights that drive strategic and data-informed decisions.
+I bridge the gap between business goals and data-driven solutions, combining analytical thinking with technical precision.
 
-I’m a B.Tech Computer Science and Engineering Graduate, passionate about Business Analytics that combine data, intelligence, and innovation. My interests lie in Data Analysis, Data Manipulation, and Data Visualization, and I love turning real-world problems into scalable digital systems.
+💼 About Me
 
-🧩 Tech Stack
+📊 Skilled in data collection, cleaning, visualization, and predictive analysis.
 
-Languages: Python, Java, C/C++, JavaScript, C#
+💡 Experienced in deriving insights using statistical models, dashboards, and data storytelling.
 
-Frameworks: Flask, Node.js, Express.js, React.js
+🧠 Proficient with tools like Python (Pandas, NumPy, Scikit-learn), SQL, and Tableau.
 
-Tools & Platforms: MySQL, Tableau, Git, Google Cloud, VS Code
+🔍 Interested in Business Intelligence, Forecasting, and Performance Optimization.
 
-Domains: Business Analytics, Data Analytics, Machine Learning, Predictive Analytics
+🚀 Exploring Machine Learning for Business Analytics to enhance decision support systems.
+
+🧰 Tech & Tools
+
+Languages: Python, SQL, R
+
+Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
+
+Data Tools: Tableau, Power BI, Excel, Google Sheets
+
+Databases: MySQL, GCP
+
+Other Skills: Data Cleaning, EDA, Predictive Modeling, Dashboarding
+
+📈 My Analytical Approach
+
+Understand business problems and KPIs
+
+Analyze trends and correlations in data
+
+Visualize insights through dashboards
+
+Recommend actionable strategies
 
 📫 Let’s Connect
 
