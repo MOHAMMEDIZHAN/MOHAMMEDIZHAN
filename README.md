@@ -7,8 +7,11 @@ I’m a B.Tech Computer Science and Engineering Graduate, passionate about Busin
 🧩 Tech Stack
 
 Languages: Python, Java, C/C++, JavaScript, C#
+
 Frameworks: Flask, Node.js, Express.js, React.js
+
 Tools & Platforms: MySQL, Tableau, Git, Google Cloud, VS Code
+
 Domains: Business Analytics, Data Analytics, Machine Learning, Predictive Analytics
 
 📫 Let’s Connect
