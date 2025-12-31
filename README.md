@@ -42,7 +42,7 @@ Recommend actionable strategies
 
 <h3>📫 Let’s Connect</h3>
 
-💼 LinkedIn: <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-izhan-2b3b5b248/" target="blank">LinkedIn</a>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/k-mohammed-izhan-/" target="blank">LinkedIn</a>
 
 💻 GitHub: <a href="https://github.com/MOHAMMEDIZHAN" target="blank">Github</a>
 
