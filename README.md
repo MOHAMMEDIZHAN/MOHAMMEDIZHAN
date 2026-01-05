@@ -11,7 +11,7 @@ I bridge the gap between business goals and data-driven solutions, combining ana
 
 💡 Experienced in deriving insights using statistical models, dashboards, and data storytelling.
 
-🧠 Proficient with tools like Python (Pandas, NumPy, Scikit-learn), SQL, and Tableau.
+🧠 Proficient with tools like Python (Pandas, NumPy, Scikit-learn), SQL, Power BI and Tableau.
 
 🔍 Interested in Business Intelligence, Forecasting, and Performance Optimization.
 
