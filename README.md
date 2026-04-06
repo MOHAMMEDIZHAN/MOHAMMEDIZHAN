@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedizhan&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedizhan" /> </p>
 
-🎯 Aspiring Business & Data Analyst passionate about transforming raw data into meaningful insights that drive strategic and data-informed decisions.
+🎯 Business & Data Analyst passionate about transforming raw data into meaningful insights that drive strategic and data-informed decisions.
 I bridge the gap between business goals and data-driven solutions, combining analytical thinking with technical precision.
 
 <h3>💼 About Me</h3>
