@@ -20,7 +20,7 @@ I bridge the gap between business goals and data-driven solutions, combining ana
 
 <h3>🧰 Tech & Tools</h3>
 
-Languages: Python, Java, C/C++, JavaScript, C#
+Languages: SQL, Python, Java, C/C++, JavaScript, C#
 
 Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
 
